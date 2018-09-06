@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://tankchien2d.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">132035504920</string>
+  <string name="google_storage_bucket" translatable="false">tankchien2d.appspot.com</string>
+  <string name="project_id" translatable="false">tankchien2d</string>
+  <string name="google_api_key" translatable="false">AIzaSyBITqex9DMP-10POpkQcuJNmC0pwPGCnD8</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBITqex9DMP-10POpkQcuJNmC0pwPGCnD8</string>
+  <string name="google_app_id" translatable="false">1:132035504920:android:9378d832a4e9b391</string>
+  <string name="default_web_client_id" translatable="false">132035504920-vrhl6e2vulokqse7q4usdamqplltadq0.apps.googleusercontent.com</string>
+</resources>
